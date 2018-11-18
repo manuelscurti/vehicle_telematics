@@ -32,12 +32,12 @@ each vehicle reports a position event every 30 seconds with the following format
 westernmost point on the highway (i.e., Pos = x)
 
 ## Goals
-**Speed Radar**: detects cars that overcome the speed limit of 90 mph
-**Average Speed Control**: detects cars with an average speed higher than 60 mph between
+-**Speed Radar**: detects cars that overcome the speed limit of 90 mph
+-**Average Speed Control**: detects cars with an average speed higher than 60 mph between
 segments 52 and 56 (both included) in both directions. If a car sends several reports on
 segments 52 or 56, the ones taken for the average speed are the ones that cover a longer
 distance.
-**Accident Reporter**: detects stopped vehicles on any segment. A vehicle is stopped when it
+-**Accident Reporter**: detects stopped vehicles on any segment. A vehicle is stopped when it
 reports at least 4 consecutive events from the same position.
 
 ## Input
