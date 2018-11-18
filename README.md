@@ -1,5 +1,6 @@
 # Vehicle Telematics
-Course project from Cloud Computing and Big Data Ecosystems Design @ Universidad Politecnica de Madrid 
+Course project from Cloud Computing and Big Data Ecosystems Design @ Universidad Politecnica de Madrid.
+A simple, simulated, real-time traffic analysis using Apache Flink.
 
 ## Authors
 - **Daniel Reyes**
