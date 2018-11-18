@@ -63,8 +63,8 @@ stopped.
 
 ## Run instructions
 From the root folder:
-	- mvn clean package -Pbuild-jar
-	- flink run -p 10 -c master2018.flink.VehicleTelematics target/**$JAR_FILE** **$PATH_TO_INPUT_FILE** **$PATH_TO_OUTPUT_FOLDER**
+- mvn clean package -Pbuild-jar
+- flink run -p 10 -c master2018.flink.VehicleTelematics target/**$JAR_FILE** **$PATH_TO_INPUT_FILE** **$PATH_TO_OUTPUT_FOLDER**
 
 ## Additional Notes 
 The program is optimized to run on a Flink cluster with 10 task manager slots available
