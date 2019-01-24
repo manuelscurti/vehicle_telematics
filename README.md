@@ -3,7 +3,7 @@ Course project from Cloud Computing and Big Data Ecosystems Design @ Universidad
 A simple, simulated, real-time traffic analysis using Apache Flink.
 
 ## Authors
-- **Daniel Reyes**
+- **Daniel Reyes** @Danireyes
 - **Manuel Scurti**
 
 ## Description
